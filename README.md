@@ -21,3 +21,5 @@
 ──────────────────────────────────────────────────────────────────────────────────
 ![Bocchi](https://i.pinimg.com/originals/65/39/5e/65395e7d4d8ea15941c538b54e293f60.gif)
 ──────────────────────────────────────────────────────────────────────────────────
+> :eye: Visitas no perfil:
+![visitas em perfil](https://profile-counter.glitch.me/NEOENX/count.svg)
