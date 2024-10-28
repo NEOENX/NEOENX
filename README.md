@@ -23,3 +23,5 @@
 ──────────────────────────────────────────────────────────────────────────────────
 > :eye: Visitas no perfil:
 ![visitas em perfil](https://profile-counter.glitch.me/NEOENX/count.svg)
+
+> 》ProPlayer de Gang Beasts《
