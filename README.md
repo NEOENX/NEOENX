@@ -25,3 +25,6 @@
 ![visitas em perfil](https://profile-counter.glitch.me/NEOENX/count.svg)
 
 > 》ProPlayer de Gang Beasts《
+> 
+> Jogo Roblox no:
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=plastic&logo=windows&logoColor=black)
